@@ -1,9 +1,9 @@
 
-# Crime Analysis Dashboard using Power BI
+# Crime Analytics Dashboard using Power BI
 
 ## Overview
 
-The Crime Analysis Dashboard is an interactive Power BI project designed to analyze crime data and transform it into actionable insights. The dashboard provides a comprehensive view of crime statistics, victim demographics, temporal crime trends, geographic distribution, and police deployment information.
+The Crime Analytics Dashboard is an interactive Power BI project designed to analyze crime data and transform it into actionable insights. The dashboard provides a comprehensive view of crime statistics, victim demographics, temporal crime trends, geographic distribution, and police deployment information.
 
 Using dynamic visualizations, maps, KPIs, and slicers, users can explore crime patterns and make data-driven decisions.
 
